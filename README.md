@@ -1,4 +1,6 @@
 ## Hey! Welcome to my profile! How is it going? 👋
+![Commits](https://github-readme-stats.vercel.app/api?username=arydsr)
+
 #### My name is Ary de Sá. I'm from Brazil  🟩🟨🟦
 
 - 🚀 I’m currently studding in Generation Brazil
