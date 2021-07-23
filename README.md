@@ -1,9 +1,4 @@
-## Hey! Welcome to my profile! How is it going? 👋
- <div>
-  <a href="https://github.com/arydsr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arydsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arydsr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 #### My name is Ary de Sá. I'm from Brazil  🟩🟨🟦
 
@@ -16,6 +11,5 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&labelColor=green&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521981666522&text=Ol%C3%A1%20Ary%2C%20encontrei%20voc%C3%AA%20no%20GitHub!)](https://api.whatsapp.com/send?phone=5521981666522&text=Ol%C3%A1%20Ary%2C%20encontrei%20voc%C3%AA%20no%20GitHub!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souoary@gmail.com)](mailto:souoary@gmail.com)
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 
