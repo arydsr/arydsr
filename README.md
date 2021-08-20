@@ -21,7 +21,7 @@
   <img align="center" alt="Ary-Git" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
 
-
+##
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iam4ry/)](https://www.linkedin.com/in/iam4ry/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&labelColor=violet&logo=instagram&logoColor=white&link=https://www.instagram.com/porrajunio/)](https://www.instagram.com/porrajunio/) 
